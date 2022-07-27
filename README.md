@@ -1,4 +1,4 @@
-### Hallo! Salut! 
+![Header](./github-header-image.png)
 
 Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-sho), a CS+Math+German student at NUS. 
 
