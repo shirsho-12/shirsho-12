@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-sho), a CS+Math+German student at NUS. 
+Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-sho), a CS+Math+German student at NUS. My interests are in Computer Vision, Reinforcement Learning, Human-Computer Interactions, FinTech, and Full-Stack Development. I enjoy making things that encourage laziness.
 
 
 ## 📫 How to reach me:  
