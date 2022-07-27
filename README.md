@@ -30,9 +30,11 @@ Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-s
 
 ### fun story ⚡
 In 2nd grade I broke my arm by falling off a slide right before the chess championship final. I was so scared of getting forfeited I ended up playing the game without telling anyone. Somehow I won! But because I wasn't celebrating, the teacher grabbed both my hands and lifted me up. Now that was a memory!
-
-![an outstanding move](https://i.kym-cdn.com/entries/icons/original/000/027/838/Untitled-1.jpg)
+<p align="center">
+<img src="https://i.kym-cdn.com/entries/icons/original/000/027/838/Untitled-1.jpg" alt="an outstanding move" width="600" height="400"/>
+</p>
 <!--
+![an outstanding move](https://i.kym-cdn.com/entries/icons/original/000/027/838/Untitled-1.jpg | width=400px)
 **shirsho-12/shirsho-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
