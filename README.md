@@ -22,13 +22,16 @@ Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-s
 
 ## &#x1f4c8; GitHub Stats
 ![Shirsho's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirsho-12&theme=buefy&show_icons=true)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shirsho-12&layout=compact"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirsho-12"/>
 ### Pronouns: He/Him
 
 ### fun story ⚡
 In 2nd grade I broke my arm by falling off a slide right before the chess championship final. I was so scared of getting forfeited I ended up playing the game without telling anyone. Somehow I won! But because I wasn't celebrating, the teacher grabbed both my hands and lifted me up. Now that was a memory!
-![an outstanding move](https://knowyourmeme.com/memes/outstanding-move-maravillosa-jugada)
+
+![an outstanding move](https://i.kym-cdn.com/entries/icons/original/000/027/838/Untitled-1.jpg)
 <!--
 **shirsho-12/shirsho-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
