@@ -26,7 +26,8 @@ Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-s
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shirsho-12&layout=compact"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirsho-12"/>
-### Pronouns: He/Him
+
+##### Pronouns: He/Him
 
 ### fun story ⚡
 In 2nd grade I broke my arm by falling off a slide right before the chess championship final. I was so scared of getting forfeited I ended up playing the game without telling anyone. Somehow I won! But because I wasn't celebrating, the teacher grabbed both my hands and lifted me up. Now that was a memory!
