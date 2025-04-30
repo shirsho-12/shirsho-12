@@ -11,15 +11,15 @@ Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-s
 
 
 ## 🔧 Technologies & Tools
-[![My Skills](https://skills.thijs.gg/icons?i=python,dart,pytorch,bash,latex,firebase,git,java&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,dart,pytorch,bash,latex,firebase,git,typescript,react,flutter&theme=light)](https://skills.thijs.gg)
 
-#### I am currently learning 🌱 Flutter, FaunaDB, GCP Human Computer Interactions, and FinTech AI 
+#### I am currently learning 🌱 Relational Deep Learning, AutoML, and 
 [![My Skills](https://skills.thijs.gg/icons?i=gcp,dart&theme=light)](https://skills.thijs.gg)
 
 
 #### I am currently working on 🔭:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YeetAlone&repo=orbital)](https://github.com/YeetAlone/orbital)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srhirshoFYP&repo=web_ui)](https://github.com/shirshoFYP/web_ui)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shirsho-12&repo=rts_piano)](https://github.com/shirsho-12/rts_piano)
 ## &#x1f4c8; GitHub Stats
 ![Shirsho's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirsho-12&theme=buefy&show_icons=true)
 
