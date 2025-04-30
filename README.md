@@ -18,7 +18,7 @@ Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-s
 
 
 #### I am currently working on 🔭:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=srhirshoFYP&repo=SQuAD-KG)](https://github.com/shirshoFYP/SQuAD-KG)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shirshoFYP&repo=SQuAD-KG)](https://github.com/shirshoFYP/SQuAD-KG)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shirsho-12&repo=rts_piano)](https://github.com/shirsho-12/rts_piano)
 ## &#x1f4c8; GitHub Stats
 ![Shirsho's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirsho-12&theme=buefy&show_icons=true)
