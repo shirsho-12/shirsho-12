@@ -25,7 +25,7 @@ Hello to whoever's looking at my GitHub. I'm Shirshajit (I commonly go by Shir-s
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shirsho-12&layout=compact"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shirsho-12"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shirsho-12)](https://git.io/streak-stats)
 
 ##### Pronouns: He/Him
 
